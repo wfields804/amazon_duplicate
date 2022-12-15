@@ -1,0 +1,27 @@
+#box1{
+    width: 50px;
+    border: 20px black;
+    padding: 0px;
+    margin: 30px;
+    
+
+}
+
+#password1{margin-top: 20px;
+    margin-bottom: 0px;}
+
+#forgot{color: blue;}
+
+#slide{right: 100%;}
+
+#continue{color: black;}
+.btn.btn-primary{background-color: orange;
+    width: 50%;
+    margin-left: 275px;
+    margin-bottom: 35px;
+}
+
+#new{color: black;
+    background-color: grey;
+}
+
